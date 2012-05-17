@@ -1,0 +1,4 @@
+name: NightimeDrunk
+main: org.nijokkin.nightimedrunk.NightimeDrunk
+version: 1.0.2
+description: Makes you feel drunk at night.
